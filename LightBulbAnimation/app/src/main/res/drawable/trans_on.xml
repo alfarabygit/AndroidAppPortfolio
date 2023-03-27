@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+<!--membuat animasi lampu hidup-->
+    <item android:drawable="@drawable/lamp_on"/>
+    <item android:drawable="@drawable/lamp_off"/>
+</transition>
